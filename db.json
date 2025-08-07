@@ -1,0 +1,24 @@
+{
+    "fotos": [
+    { "imagem": "https://i.postimg.cc/hG9F4TQS/vitor.jpg", 
+        "legenda": "Despedida Vitor", 
+        "data": "31/07/25"
+    },
+    { "imagem": "https://i.postimg.cc/Px9Fmqw6/montando-PC.jpg", 
+        "legenda": "Montando PC", 
+        "data": "31/07/25"
+    },
+    { "imagem": "https://i.postimg.cc/XNz08wFv/fotinha-De-Sempre.jpg", 
+        "legenda": "Fotinha que não pode faltar", 
+        "data": "31/07/25"
+    },
+    { "imagem": "https://i.postimg.cc/PJrYrgKd/melhor-Vista.jpg", 
+        "legenda": "Melhor vista", 
+        "data": "31/07/25"
+    },
+    { "imagem": "https://i.postimg.cc/d3wP7BTs/Nois.jpg", 
+        "legenda": "Nois", 
+        "data": "31/07/25"
+    }
+    ]
+  }
